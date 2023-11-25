@@ -1,2 +1,2 @@
 # chips-plus-plus
-Chips++ is a stupid programming language made by Parteh
+ is an absolutely idiotic interpreted programming language made by Parteh in Rust as my first interpreter and first rust project
